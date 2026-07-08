@@ -1,4 +1,0 @@
-python is begineer friendly language
-Python is easy to learn.
-Python is powerful and easy.
-Learning Python is fun.
